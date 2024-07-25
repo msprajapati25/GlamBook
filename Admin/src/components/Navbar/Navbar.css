@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 60px;
+    box-shadow: 0 1px 3px -2px #000;
+    margin: 1px;
+    background: white;
+}
+img {
+    height: 50px;
+    width: 50px;
+}
+.left{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    
+}
+.nav-logo{
+    margin-right: 20px;
+}
